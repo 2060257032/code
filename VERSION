@@ -1,0 +1,6 @@
+PROJECT_NAME="Cloud-Test-Platform"
+VERSION_MAJOR=1
+VERSION_MINOR=0
+VERSION_PATCH=0
+BUILD_DATE="$(date +%Y%m%d)"
+GIT_COMMIT="local-build"
